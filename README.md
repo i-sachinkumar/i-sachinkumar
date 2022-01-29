@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-sachinkumar&label=Profile%20views&color=0e75b6&style=flat" alt="i-sachinkumar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-sachinkumar" alt="i-sachinkumar" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=i-sachinkumar" alt="i-sachinkumar" /> </p>
 
 - 🌱 I’m currently learning **Android Development**
 
