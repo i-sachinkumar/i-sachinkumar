@@ -14,11 +14,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ihrsachin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ihrsachin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ikrsachin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikrsachin" height="30" width="40" /></a>
-<a href="https://instagram.com/ihrsachin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ihrsachin" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/19b080022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@19b080022" height="30" width="40" /></a>
+  
+  
+<a href="https://www.hackerrank.com/19b080022" target="blank"><img align="center" src="pngwing.com.png" alt="ihrsachin" height="30" width="40" /></a> 
 <a href="https://www.leetcode.com/user2209b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user2209b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ikrsachin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikrsachin" height="30" width="40" /></a>
+<a href="https://twitter.com/ihrsachin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ihrsachin" height="30" width="40" /></a>
+<a href="https://instagram.com/ihrsachin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ihrsachin" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
