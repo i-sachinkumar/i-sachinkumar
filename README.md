@@ -4,7 +4,7 @@
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=i-sachinkumar" alt="i-sachinkumar" /> </p>
 
-- 🌱 I’m currently learning **Android Development**
+<!-- - 🌱 I’m currently learning **Android Development** -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/i-sachinkumar?tab=repositories](https://github.com/i-sachinkumar?tab=repositories)
 
