@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/i-sachinkumar?tab=repositories](https://github.com/i-sachinkumar?tab=repositories)
 
-- 💬 Ask me about **www.linkedin.com/in/ikrsachin**
+- 💬 How to connect with me **www.linkedin.com/in/ikrsachin**
 
 - 📫 How to reach me **rjsk.gaya@gmail.com**
 
