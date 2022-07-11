@@ -14,6 +14,7 @@
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=i-sachinkumar&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true&count_private=true" alt="i-sachinkumar"/>
   </div>
 
+
 <!-- - 🌱 I’m currently learning **Android Development** -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/i-sachinkumar?tab=repositories](https://github.com/i-sachinkumar?tab=repositories)
@@ -25,7 +26,7 @@
 
 <div>
  <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=396 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-sachinkumar&langs_count=20&theme=react&custom_title=Most used Languages" />
+      <img width=396 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-sachinkumar&langs_count=20&theme=dark&border_color=61dafb&custom_title=Most used Languages" />
     </a> 
 </div>
 
