@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sachin Kumar</h1>
 
 <h4 align="center">IIT Bombay '23 | SDE Intern'22 @LightStone Technologies | Ex - Android Developer @Procivil | DS-Algo Enthusiast</h4>
-</br>
+
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-sachinkumar&label=Profile%20views&color=0e75b6&style=flat" alt="i-sachinkumar" /> </p>
 <div>
