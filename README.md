@@ -26,7 +26,7 @@
 
 <div>
  <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=396 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-sachinkumar&langs_count=20&theme=dark&border_color=61dafb&custom_title=Most used Languages" />
+      <img width=396 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-sachinkumar" />
     </a> 
 </div>
 
