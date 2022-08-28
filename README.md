@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-sachinkumar&label=Profile%20views&color=0e75b6&style=flat" alt="i-sachinkumar" /> </p>
 <div>
-    <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=i-sachinkumar&theme=onedark&column=7" alt="i-sachinkumar" />
+    <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=i-sachinkumar&theme=onedark&column=8" alt="i-sachinkumar" />
 </div>
 
 <br>
