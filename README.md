@@ -22,6 +22,8 @@
 - 💬 How to connect with me **www.linkedin.com/in/ikrsachin**
 
 - 📫 How to reach me **rjsk.gaya@gmail.com**
+
+- 📃 [Resume](https://drive.google.com/file/d/1lixhdpX9p3VDl2ZwitQVqFEGTPwVE4ub/view?usp=sharing)
  <br>
 
 <div>
