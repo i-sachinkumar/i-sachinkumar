@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sachin Kumar</h1>
 
-<h4 align="center">IIT Bombay '23 | Research Specialist @ Codiis | Ex - Android Developer: MapIT.ai | DS-Algo Enthusiast</h4>
+<h4 align="center">IIT Bombay '23 | Software Developer @ Codiis | Ex - Founding Engineer @ MapIT.ai | DS-Algo Enthusiast</h4>
 
 <br>
 
